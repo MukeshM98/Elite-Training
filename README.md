@@ -82,11 +82,10 @@ Topics covered:
 
 # 📊 Training Progress
 
-<p align="center">
+| Progress | Problems Solved | Target |
+|--------|--------|--------|
+| █████████░░░░░░░░░░ | 150+ | 300 |
 
-![progress](https://progress-bar.dev/75/?title=DSA%20Journey)
-
-</p>
 
 ---
 
